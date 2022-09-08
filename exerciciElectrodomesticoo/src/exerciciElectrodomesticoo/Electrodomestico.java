@@ -46,7 +46,7 @@ public class Electrodomestico {
 				|| consumoEnergetico == 'F' || consumoEnergetico == 'f') { 
 
 
-			this.color = color;
+			this.consumoEnergetico = consumoEnergetico;
 
 		}
 
